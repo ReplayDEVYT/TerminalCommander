@@ -1,6 +1,6 @@
 ﻿{
   "_id": "6a90ba459f6c25038c541841",
-  "availableInRaid": false,
+  "availableInRaid": true,
   "avatar": "/files/trader/avatar/kerman.jpg",
   "balance_dol": 0,
   "balance_eur": 0,
@@ -19,7 +19,7 @@
     "min_payment": 0,
     "min_return_hour": 0
   },
-  "isAvailableInPVE": true,
+  "isAvailableInPVE": false,
   "isCanTransferItems": false,
   "isCanTransferItemsFromPve": false,
   "items_buy": {
