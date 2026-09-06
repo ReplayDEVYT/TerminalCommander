@@ -1,7 +1,7 @@
 ﻿{
-  "_id": "85848c340ad82333785e940c",
-  "availableInRaid": true,
-  "avatar": "avatar.jpg",
+  "_id": "6a90ba459f6c25038c541841",
+  "availableInRaid": false,
+  "avatar": "/files/trader/avatar/kerman.jpg",
   "balance_dol": 0,
   "balance_eur": 0,
   "balance_rub": 7000000,
@@ -19,7 +19,7 @@
     "min_payment": 0,
     "min_return_hour": 0
   },
-  "isAvailableInPVE": false,
+  "isAvailableInPVE": true,
   "isCanTransferItems": false,
   "isCanTransferItemsFromPve": false,
   "items_buy": {
@@ -31,7 +31,7 @@
     "id_list": []
   },
   "items_sell": [],
-  "location": "RUAF",
+  "location": "???",
   "loyaltyLevels": [
     {
       "buy_price_coef": 0,
@@ -46,9 +46,9 @@
   ],
   "mainDialogue": "",
   "medic": false,
-  "name": "RUAF",
+  "name": "???",
   "nextResupply": 1672241513,
-  "nickname": "RUAF",
+  "nickname": "Mr. Kerman",
   "prohibitedTransferableItems": {
     "category": [],
     "id_list": []
@@ -63,7 +63,7 @@
   },
   "sell_category": [],
   "sell_modifier_for_prohibited_items": 0,
-  "surname": "RUAF",
+  "surname": "???",
   "transferableItems": {
     "category": [],
     "id_list": []

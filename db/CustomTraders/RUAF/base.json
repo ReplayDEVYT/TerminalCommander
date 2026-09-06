@@ -1,7 +1,7 @@
 ﻿{
   "_id": "85848c340ad82333785e940c",
   "availableInRaid": true,
-  "avatar": "avatar.jpg",
+  "avatar": "/files/trader/avatar/ruaf.jpg",
   "balance_dol": 0,
   "balance_eur": 0,
   "balance_rub": 7000000,
@@ -31,7 +31,7 @@
     "id_list": []
   },
   "items_sell": [],
-  "location": "RUAF",
+  "location": "Terminal",
   "loyaltyLevels": [
     {
       "buy_price_coef": 0,
