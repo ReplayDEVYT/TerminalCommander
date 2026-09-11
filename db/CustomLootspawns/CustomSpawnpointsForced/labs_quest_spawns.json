@@ -1,0 +1,45 @@
+{
+    "laboratory": [     
+        {
+            "locationId": "(-110.8298 0.9468 -440.2074)",
+            "probability": 0.25,
+            "template": {
+                "Id": "quest_injector_chemical",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": -110.8298,
+                    "y": 0.9468,
+                    "z": -440.2074
+                },
+                "Rotation": {
+                    "x": -0.0003,
+                    "y": 281.4657,
+                    "z": 180.1305
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": true,
+                "Root": "6a073aa3951ece0ea6969a24",
+                "Items": [
+                    {
+                        "_id": "6a9f4265cc506ef6c9305a6c",
+                        "_tpl": "6a9f25577f870379028e1457",
+                        "upd": {
+                            "StackObjectsCount": 1
+                        }
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "6a9f25577f870379028e1457"
+                    },
+                    "relativeProbability": 1
+                }
+            ]
+        }
+    ]
+}

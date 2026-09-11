@@ -1,0 +1,83 @@
+[
+  {
+    "ZoneId": "watersample_spot",
+    "ZoneName": "watersample_spot",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-93.68913",
+      "Y": "-11.2551",
+      "Z": "-12.7174",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.2588191",
+      "Z": "0",
+      "W": "0.9659259"
+    },
+    "Scale": {
+      "X": "7",
+      "Y": "5",
+      "Z": "11",
+      "W": "0"
+    },
+    "GroupPosition": null,
+    "Salvage": null
+  },
+  {
+    "ZoneId": "bluewater_2",
+    "ZoneName": "bluewater_2",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-67.98079",
+      "Y": "-10.83643",
+      "Z": "-93.41932",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.190809",
+      "Z": "0",
+      "W": "0.9816272"
+    },
+    "Scale": {
+      "X": "11",
+      "Y": "5",
+      "Z": "49",
+      "W": "0"
+    },
+    "GroupPosition": null,
+    "Salvage": null
+  },
+  {
+    "ZoneId": "bigred_water",
+    "ZoneName": "bigred_water",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-213.4743",
+      "Y": "0.9343137",
+      "Z": "-122.6184",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "26",
+      "Y": "21",
+      "Z": "61",
+      "W": "0"
+    },
+    "GroupPosition": null,
+    "Salvage": null
+  }
+]

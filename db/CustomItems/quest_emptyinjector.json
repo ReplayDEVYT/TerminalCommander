@@ -1,0 +1,150 @@
+{
+  "6a9f2552c77e6513e674a9af": {
+    "itemTplToClone": "544fb3f34bdc2d03748b456a",
+    "parentId": "5448ecbe4bdc2d60728b4568",
+    "handbookParentId": "5b47574386f77428ca22b341",
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/weapons/usable_items/item_syringe/item_morphine_loot.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.2,
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "Empty Injector",
+        "shortName": "Empty",
+        "description": "An injector with a special mechanism for collecting samples of medication."
+      }
+    },
+    "fleaPriceRoubles": 1,
+    "handbookPriceRoubles": 1,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "CanSellOnRagfair": false,
+    "CanRequireOnRagfair": false,
+    "addtoItemBlacklist": true, 
+    "modSlot": [""],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "bigTrophies", 
+      "smallTrophies", 
+      "dogTags"
+    ],
+    "addtoGeneratorAsFuel": false,
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+    "addtoEmptyPropSlots": false,
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "",
+        "Probability": 0
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": false,
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+            }
+          ]
+  },
+  "6a9f25577f870379028e1457": {
+    "itemTplToClone": "544fb3f34bdc2d03748b456a",
+    "parentId": "5448ecbe4bdc2d60728b4568",
+    "handbookParentId": "5b47574386f77428ca22b341",
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/content/weapons/usable_items/item_syringe/item_morphine_loot.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.2,
+      "Grids": []
+    },
+    "locales": {
+      "en": {
+        "name": "Unknown Sample",
+        "shortName": "???",
+        "description": "A sample of an unknown chemical. God knows what this would do to you, best not to take it."
+      }
+    },
+    "fleaPriceRoubles": 1,
+    "handbookPriceRoubles": 1,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoBots": false,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "CanSellOnRagfair": false,
+    "CanRequireOnRagfair": false,
+    "addtoItemBlacklist": true, 
+    "modSlot": [""],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "bigTrophies", 
+      "smallTrophies", 
+      "dogTags"
+    ],
+    "addtoGeneratorAsFuel": false,
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+    "addtoEmptyPropSlots": false,
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "",
+        "Probability": 0
+      }
+    ],
+    "addtoSecureFilters": false,
+    "addtoTraders": false,
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+            }
+          ]
+  }
+}
