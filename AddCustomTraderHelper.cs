@@ -46,9 +46,9 @@ namespace TerminalCommander
                 Base = cloner.Clone(traderDetailsToAdd),
                 QuestAssort = new()
                 {
-                    { "Started", new() },
-                    { "Success", new() },
-                    { "Fail", new() }
+                    { "started", new() },
+                    { "success", new() },
+                    { "fail", new() }
                 },
                 Dialogue = []
             };
