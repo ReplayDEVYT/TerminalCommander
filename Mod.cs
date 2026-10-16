@@ -43,7 +43,7 @@ public sealed class PreloadItems(
     }
 }
 
-[Injectable(TypePriority = OnLoadOrder.Preload + 1)]
+[Injectable(TypePriority = OnLoadOrder.TraderRegistration + 1)]
 public class AddTraderWithAssortJson(
     ModHelper modHelper,
     ImageRouter imageRouter,
